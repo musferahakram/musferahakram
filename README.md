@@ -1,6 +1,4 @@
 
----
-
 <img align="right" alt="Robotics GIF" width="380" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif"/>
 
 ```yaml
