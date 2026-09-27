@@ -36,10 +36,6 @@ currently   : - training robots to learn from the world
 fun_fact    : "my robots have better balance than I do"
 ```
 
-<p align="left">
-  <em>⚙️ I bridge the gap between raw data and physical intelligence — from wrangling sensor streams to deploying models on real robots.</em>
-</p>
-
 <br clear="right"/>
 
 ---
