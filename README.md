@@ -22,9 +22,9 @@ focus       : - Autonomous Systems
               - Robot Perception (LiDAR / CV / Sensor Fusion)
               - ML / Deep Learning for embodied agents
               - Predictive Analytics & Big Data Pipelines
-currently   : - Architecting learning frameworks that enable robots to dynamically adapt to complex environments.
-              - Translating high-noise, raw sensor data into deterministic, real-time operational decisions.
-              - Conducting root-cause analysis on edge-case navigation failures (debugging why the robot chose the wall).
+currently   : - Engineering adaptive robotic learning
+              - Translating sensor data into decisions
+              - Debugging edge-case navigation failures
 ```
 
 <br clear="right"/>
