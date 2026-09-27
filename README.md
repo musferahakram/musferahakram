@@ -7,7 +7,7 @@
 <!-- TYPING-ANIMATED TITLE BANNER -->
 <div align="center">
   <a href="https://github.com/musferahakram">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Musferah+Akram+%F0%9F%A4%96;Robotics+%26+Data+Science+Engineer;Building+Autonomous+Minds+%F0%9F%A7%A0;Data+%E2%9E%A1%EF%B8%8F+Models+%E2%9E%A1%EF%B8%8F+Robots+%E2%9E%A1%EF%B8%8F+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Musferah+Akram+%F0%9F%A4%96;Robotics+%26+Data+Science+Expert;%F0%9F%A7%A0;Data+%E2%9E%A1%EF%B8%8F+Models+%E2%9E%A1%EF%B8%8F+Robots+%E2%9E%A1%EF%B8%8F+Reality" alt="Typing SVG" />
   </a>
 </div>
 
