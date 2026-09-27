@@ -25,12 +25,10 @@ currently   : - Engineering adaptive robotic learning
 <summary><b>🤖 Robotics & Embedded</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/MoveIt!-Motion%20Planning-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SolidWorks-CAD-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-SBC-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20C%2FC%2B%2B-Firmware-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SLAM-Localization-8E2DE2?style=for-the-badge"/>
 </p>
 </details>
 
