@@ -18,8 +18,7 @@
 ```yaml
 name        : Musferah Akram
 role        : Robotics Engineer × Data Science Expert
-located_in  : Engineering the future, one servo at a time
-focus       : - Autonomous Systems & SLAM
+focus       : - Autonomous Systems
               - Robot Perception (LiDAR / CV / Sensor Fusion)
               - ML / Deep Learning for embodied agents
               - Predictive Analytics & Big Data Pipelines
