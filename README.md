@@ -32,7 +32,6 @@ currently   : - Engineering adaptive robotic learning
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/ROS%202-Humble%20%2F%20Iron-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gazebo-Simulation-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white"/>
   <img src="https://img.shields.io/badge/RViz-Visualization-FF4757?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MoveIt!-Motion%20Planning-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SolidWorks-CAD-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
