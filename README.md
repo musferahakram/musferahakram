@@ -13,6 +13,8 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,100:1a1a3a&height=45&section=header&text=%F0%9F%A4%96%20%20ABOUT%20ME&fontSize=26&fontColor=00f5ff&fontAlign=center&fontAlignY=55&animation=fadeIn" width="100%"/>
+
 ```yaml
 name        : Musferah Akram
 role        : Robotics Engineer × Data Science Expert
