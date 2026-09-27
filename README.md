@@ -21,9 +21,6 @@ currently   : - Engineering adaptive robotic learning
 
 ---
 
-<!-- ═══ SECTION: TECH ARSENAL ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,100:1a1a3a&height=45&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20%20TECH%20ARSENAL&fontSize=26&fontColor=00f5ff&fontAlign=center&fontAlignY=55&animation=fadeIn" width="100%"/>
-
 <details open>
 <summary><b>🤖 Robotics & Embedded</b></summary>
 <br>
