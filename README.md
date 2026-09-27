@@ -16,15 +16,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,35:0b2a4a,70:00f5ff,100:7b2ff7&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%" alt="wave header"/>
 </div>
 
-<!-- COUNTER + TROPHIES -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MusferahAkram&label=PROFILE%20VISITORS&color=00f5ff&style=for-the-badge&labelColor=0a0a1a" alt="Profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/MusferahAkram?label=FOLLOWERS&style=for-the-badge&color=7b2ff7&labelColor=0a0a1a&logo=github" alt="followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-00ff88?style=for-the-badge&labelColor=0a0a1a" alt="status"/>
-</div>
-
 ---
 
 <!-- ═══ SECTION: ABOUT ═══ -->
@@ -194,15 +185,6 @@ fun_fact    : "my robots have better balance than I do"
 </div>
 
 <br>
-
-<!-- SUPPORT -->
-<div align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Fueling%20robots%20since%20day%2000-0a0a1a?style=for-the-badge&labelColor=00f5ff&color=0a0a1a"/>
-</div>
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00f5ff,100:0a0a1a&height=160&section=footer&fontSize=0" width="100%"/>
