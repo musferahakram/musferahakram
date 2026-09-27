@@ -18,24 +18,21 @@
 
 ---
 
-<!-- ═══ SECTION: ABOUT ═══ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,100:1a1a3a&height=45&section=header&text=%F0%9F%A4%96%20%20ABOUT%20ME&fontSize=26&fontColor=00f5ff&fontAlign=center&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <img align="right" alt="Robotics GIF" width="380" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif"/>
 
 ```yaml
 name        : Musferah Akram
-role        : Robotics Engineer × Data Scientist
+role        : Robotics Engineer × Data Science Expert
 located_in  : Engineering the future, one servo at a time
-focus       :
-  - Autonomous Systems & SLAM
-  - Robot Perception (LiDAR / CV / Sensor Fusion)
-  - ML / Deep Learning for embodied agents
-  - Predictive Analytics & Big Data Pipelines
-currently   :
-  - training robots to learn from the world
-  - turning raw sensor noise into decisions
-  - teaching myself why my robot walked into a wall
+focus       : - Autonomous Systems & SLAM
+              - Robot Perception (LiDAR / CV / Sensor Fusion)
+              - ML / Deep Learning for embodied agents
+              - Predictive Analytics & Big Data Pipelines
+currently   : - training robots to learn from the world
+              - turning raw sensor noise into decisions
+              - teaching myself why my robot walked into a wall
 fun_fact    : "my robots have better balance than I do"
 ```
 
@@ -173,21 +170,7 @@ fun_fact    : "my robots have better balance than I do"
 
 ---
 
-<!-- ═══ SECTION: CONNECT ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,100:1a1a3a&height=45&section=header&text=%F0%9F%93%A1%20%20CONNECT%20%26%20COLLABORATE&fontSize=26&fontColor=00f5ff&fontAlign=center&fontAlignY=55&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/musferah-akram"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR.EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/MusferahAkram"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://medium.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</div>
-
 <br>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00f5ff,100:0a0a1a&height=160&section=footer&fontSize=0" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=7b2ff7&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Data+meets+machines.+Machines+meet+the+world.;Built+with+%E2%9A%99%EF%B8%8F+by+Musferah+Akram" alt="footer typing"/>
