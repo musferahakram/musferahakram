@@ -84,9 +84,3 @@ fun_fact    : "my robots have better balance than I do"
 </details>
 
 ---
-
-<!-- ═══ SECTION: QUOTE OF THE MIND ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,100:1a1a3a&height=45&section=header&text=%F0%9F%92%AD%20%20QUOTE%20OF%20THE%20MIND&fontSize=26&fontColor=00f5ff&fontAlign=center&fontAlignY=55&animation=fadeIn" width="100%"/>
-
-
----
